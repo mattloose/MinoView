@@ -1,7 +1,7 @@
 {
-  "name": "MinoTour_MinKNOW_Monitoring",
+  "name": "MinoView",
   "version": "0.0.1",
-  "description": "An electron-vue project",
+  "description": "Local Monitoring of minKNOW",
   "main": "./dist/main.js",
   "dependencies": {
     "bootstrap": "^3.3.7",
