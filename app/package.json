@@ -1,0 +1,26 @@
+{
+  "name": "MinoTour_MinKNOW_Monitoring",
+  "version": "0.0.1",
+  "description": "An electron-vue project",
+  "main": "./dist/main.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "~3.3.1",
+    "commonjs-highcharts": "^4.0.3",
+    "highcharts": "^5.0.7",
+    "highcharts-exporting": "^0.1.2",
+    "highcharts-export-csv": "^1.4.6",
+    "jquery": "^3.1.1",
+    "vue": "^2.1.10",
+    "vue-electron": "^1.0.6",
+    "vue-resource": "^1.0.3",
+    "vue-router": "^2.1.2",
+    "vuex": "^2.1.1",
+    "zerorpc": "*"
+  },
+  "mac": {
+    "icon": "app/icons/logo.png.ico"
+  },
+  "devDependencies": {},
+  "author": "Matt Loose <matt.loose@nottingham.ac.uk>"
+}
